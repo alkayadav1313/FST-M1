@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="SeleniumTests" parallel="classes">
+    <test name="TestExample1">
+        <classes>
+            <class name="SeleniumLMS.Activity1" />
+            <class name="SeleniumLMS.Activity2" />
+            <class name="SeleniumLMS.Activity3" />
+            <class name="SeleniumLMS.Activity4" />
+            <class name="SeleniumLMS.Activity5" />
+            <class name="SeleniumLMS.Activity6" />
+            <class name="SeleniumLMS.Activity7" />
+            <class name="SeleniumLMS.Activity8" />
+            <class name="SeleniumLMS.Activity9" />
+        </classes>
+    </test>
+</suite>
